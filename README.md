@@ -1,5 +1,3 @@
-# Jarvis_AI_Assistant
-
 # 🤖 Jarvis AI Chatbot Assistant
 
 Jarvis is your intelligent AI-powered virtual assistant designed to automate tasks, provide hands-free interaction, and improve workflow efficiency. It uses natural language understanding to interpret user commands and operate third-party applications or provide responses in a human-like manner.
